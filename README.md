@@ -37,8 +37,8 @@ He/Him
 
 If you find ViddoTech useful, consider supporting our work. Donations help us maintain the project and steer its future development. Below are QR codes for cryptocurrency donations:
 
-- [Bitcoin (BTC)](donate/donate.md)
-- [Ethereum (ETH)](donate/donate.md)
+- [Bitcoin (BTC)](https://github.com/viddotech/videoalchemy/blob/main/donate/donate.md)
+- [Ethereum (ETH)](https://github.com/viddotech/videoalchemy/blob/main/donate/donate.md)
 
 ---
 
