@@ -4,7 +4,11 @@ Welcome to my GitHub profile! I specialize in FFmpeg and video processing toolki
 
 ## 🚀 About Me
 
-I'm a developer deeply engrossed in the world of video processing, with a particular emphasis on leveraging FFmpeg and other video processing toolkits. My work revolves around creating and improving video processing tools that serve as foundational elements for both open source and premium projects. I aim to democratize video processing technology, making it accessible to developers through robust APIs and comprehensive toolkits. Join me on this journey to push the boundaries of video technology!
+At the heart of our mission lies a commitment to enhancing the video processing and editing ecosystem through the development of open source, free, and premium tools. Our goal is to simplify and enrich the experience of working with video processing technologies, with a special focus on powerful tools like FFmpeg, GStreamer, and others. We've embarked on this journey by creating and sharing comprehensive documentation of essential FFmpeg commands, designed to be easily understood and applied by both newcomers and seasoned professionals alike.
+
+Looking ahead, we plan to expand our documentation to include essential commands for FFmpeg, GStreamer, OpenCV, and libVLC, laying the groundwork for the development of advanced toolkits and SaaS solutions tailored to the needs of video processing enthusiasts and professionals.
+
+Your feedback, support, contributions, and donations are crucial to accelerating our development process and bringing these tools to the community more quickly. We are dedicated to making a significant impact on how video processing and editing tasks are approached and executed, and we invite you to join us in this exciting endeavor. Together, we can build a more efficient and enjoyable video processing experience.
 
 ## 🔧 Technologies & Tools
 
