@@ -12,15 +12,16 @@ Your feedback, support, contributions, and donations are crucial to accelerating
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![Tools](https://img.shields.io/badge/Tools-Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-FFmpeg-informational?style=flat&logo=ffmpeg&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GStreamer-informational?style=flat&logo=gstreamer&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-VLC_Player-informational?style=flat&logo=videolan&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Design-REST_API-informational?style=flat&logo=rest&logoColor=white&color=2bbc8a)
+![AI](https://img.shields.io/badge/Tools-AI-%2300ADD8.svg?style=flat&logo=ai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Tools-Hugging%20Face-%23FFD700.svg?style=flat&logo=huggingface&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Tools-Microsoft%20Azure-%230078D4.svg?style=flat&logo=microsoftazure&logoColor=white)
+
 
 ## 🌟 Highlighted Projects
 
